@@ -23,13 +23,13 @@ Este projeto realiza a coleta de dados de veículos utilizando a API pública da
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/rmagesto/Web_Scraping.git)
 ```
 
 2. Acesse a pasta do projeto:
 
 ```
-cd nome-do-projeto
+cd Web_Scraping
 ```
 
 3. Instale as dependências:
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 4. Execute o script:
 
 ```
-python nome_do_arquivo.py
+python web_scraping_fipe.py
 ```
 
 ## Exemplo de saída
